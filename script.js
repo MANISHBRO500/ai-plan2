@@ -1,7 +1,7 @@
 const openAiApiKey = ''; // Replace with OpenAI API key
-const weatherApiKey = ''; // Replace with Weather API key
+const weatherApiKey = '839affe97e615679d4dbb8d01a9d02aa'; // Replace with Weather API key
 const googleMapsApiKey = ''; // Replace with Google Maps API key
-const unsplashApiKey = ''; // Replace with Unsplash API key
+const unsplashApiKey = 'rBKbGl1OWYfS4cY6-rqeQt10GkTtk4BY8h0SMa5_d98'; // Replace with Unsplash API key
 
 // Initialize Speech Recognition
 const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
